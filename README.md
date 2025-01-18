@@ -4,13 +4,11 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir Geylani Şentürk</h1>
 <h3 align="center">A brave artificial intelligence student from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akadirsntrk&label=Profile%20views&color=0e75b6&style=flat" alt="akadirsntrk" /> </p>
+
 
 - 🔭 I’m currently working on **CYRO TİKA**
-
+- 🔭 I’m currently working on **CYRO ROCKET**
 - 🌱 I’m currently learning **React**
-
-- 🔭 I’m currently working on [CYRO ROCKET](/)
 
 - 🤝 I’m looking for help with **Computer Vision Systems**
 
@@ -30,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akadirsntrk&show_icons=true&locale=en" alt="akadirsntrk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akadirsntrk&" alt="akadirsntrk" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akadirsntrk&label=Profile%20views&color=0e75b6&style=flat" alt="akadirsntrk" /> </p
