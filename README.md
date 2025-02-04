@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on **CYRO TİKA**
 - 🔭 I’m currently working on **CYRO ROCKET**
+- 🔭 I’m currently working on **CYROPİST**
 - 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **Computer Vision Systems**
